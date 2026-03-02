@@ -16,7 +16,7 @@ Resources for building software freedom-focused and privacy-first using AI-enhan
 
 PlebDevs is a mix of live workshops, async courses, written guides, and interactive coding resources — a one of a kind developer education platform built on Nostr and fully Lightning integrated.
 
-**Platform V2 coming soon** with the AI Dev Program course and improved learning experience!
+**Platform V2 is now live at [plebdevs.com](https://plebdevs.com)!** The full content library is available and free to access. New features and improvements are still in progress, but the platform is ready to use today.
 
 - **🌐 Website:** [plebdevs.com](https://plebdevs.com)
 - **💬 Discord Community:** [Join here](https://discord.gg/t8DCMcq39d)
@@ -42,4 +42,4 @@ This is a community effort. If you'd like to contribute code, improve guides, sh
 
 - Open an issue or PR on any repo
 - Join the Discord and introduce yourself
-- Donate sats to help keep it all going ⚡ austin@bitcoinpleb.dev
+- Donate sats to help keep it all going ⚡ plebdevs@vlt.ge
