@@ -4,8 +4,8 @@ PlebDevs is a developer education community dedicated to teaching Bitcoin techno
 
 ## 🤖 AI Dev Program (Early Access)
 
-Resources for building freedom-focused, privacy-first, and Bitcoin technologies using AI-enhanced development workflows. Free course coming soon!
-
+Resources for building software freedom-focused and privacy-first using AI-enhanced development workflows.
+- **[Adversarial AI Course](https://plebdevs.com)** — Learn how to use and understand AI from an adversarial-development perspective, with a focus on running local models and keeping AI usage private and secure
 - **[AI Guides](https://github.com/pleb-devs/ai-guides)** — Guides for LLM coding agents (OpenCode, Goose, Ollama, Maple, SearXNG) focused on privacy, security, and cost control
 - **[Freedom Tech](https://github.com/pleb-devs/freedom-tech)** — Curated catalog of sovereignty-focused libraries (Bitcoin, Lightning, Ecash, Nostr, Cryptography, Privacy)
 - **[New Project Boilerplate](https://github.com/pleb-devs/new-project-boilerplate)** — Documentation-first methodology for starting LLM-driven projects
